@@ -1,9 +1,9 @@
 # P-SNAPHU
 Kun Jiang, Central South University, kunjiang@csu.edu.cn
 
-# This repo is used for unwrapping C-band coseismic interferograms of large earthquakes using the P-SNAPHU method
+This repo is used for unwrapping C-band coseismic interferograms of large earthquakes using the P-SNAPHU method
 
-# The demo is an example of the ascending interferogram for the 2016 Kumamoto earthquake
+The demo is an example of the ascending interferogram for the 2016 Kumamoto earthquake
 
 
 ##### Notes ######
